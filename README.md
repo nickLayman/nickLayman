@@ -1,4 +1,4 @@
-At the moment, my account and the majority of its repositories are being run, created, organized, and documented with nobody else in mind except present myself. 
+At the moment, my account and the majority of its repositories are being run, created, organized, and documented with nobody else in mind except my present self. 
 Additionally, even if some pieces did have other people in mind, all of the code here should be treated as if nobody else was considered.
 In particular this means:
 - There is very little documentation or explanation
